@@ -22,7 +22,7 @@ long_description = ''.join(readme)
 reqs = [
         'PyYAML',
         'requests',
-        'coverage',
+        'coverage>=4.4',
         'six',
         ]
 
